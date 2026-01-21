@@ -36,3 +36,5 @@ The game includes a full inventory system where items, tools, and seeds are stor
 ## Notes
 This was one of the most complex game systems I had built at the time and significantly improved my understanding of programming architecture, state management, and player feedback loops.
 
+Game screenshots can be found in the images folder.
+
